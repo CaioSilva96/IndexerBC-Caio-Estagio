@@ -9,3 +9,14 @@ C:\Users\caio.silva\Desktop\Projeto-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v0
 C:\Users\caio.silva\Desktop\Projeto-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.csproj.CoreCompileInputs.cache
 C:\Users\caio.silva\Desktop\Projeto-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.exe
 C:\Users\caio.silva\Desktop\Projeto-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.pdb
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\bin\Debug\BCindexer-Caio-v03.exe.config
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\bin\Debug\BCindexer-Caio-v03.exe
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\bin\Debug\BCindexer-Caio-v03.pdb
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer_Caio_v03.MainFormIndexter.resources
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer_Caio_v03.Properties.Resources.resources
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.exe
+C:\Users\Caio\Documents\Projeto-Estagio\IndexerBC-Caio-Estagio\BCindexer-Caio-v03\BCindexer-Caio-v03\obj\Debug\BCindexer-Caio-v03.pdb

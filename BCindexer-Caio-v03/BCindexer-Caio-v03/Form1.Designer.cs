@@ -30,34 +30,47 @@
         {
             this.btnEscolherPasta = new System.Windows.Forms.Button();
             this.lblPathDir = new System.Windows.Forms.Label();
+            this.NDir = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEscolherPasta
             // 
-            this.btnEscolherPasta.Location = new System.Drawing.Point(64, 74);
+            this.btnEscolherPasta.Location = new System.Drawing.Point(48, 60);
+            this.btnEscolherPasta.Margin = new System.Windows.Forms.Padding(2);
             this.btnEscolherPasta.Name = "btnEscolherPasta";
-            this.btnEscolherPasta.Size = new System.Drawing.Size(75, 23);
+            this.btnEscolherPasta.Size = new System.Drawing.Size(56, 19);
             this.btnEscolherPasta.TabIndex = 0;
-            this.btnEscolherPasta.Text = "button1";
+            this.btnEscolherPasta.Text = "Escolher Pasta";
             this.btnEscolherPasta.UseVisualStyleBackColor = true;
             this.btnEscolherPasta.Click += new System.EventHandler(this.btnEscolherPasta_Click);
             // 
             // lblPathDir
             // 
             this.lblPathDir.AutoSize = true;
-            this.lblPathDir.Location = new System.Drawing.Point(163, 81);
+            this.lblPathDir.Location = new System.Drawing.Point(122, 66);
+            this.lblPathDir.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblPathDir.Name = "lblPathDir";
-            this.lblPathDir.Size = new System.Drawing.Size(44, 16);
+            this.lblPathDir.Size = new System.Drawing.Size(0, 13);
             this.lblPathDir.TabIndex = 1;
-            this.lblPathDir.Text = "label1";
+            // 
+            // NDir
+            // 
+            this.NDir.AutoSize = true;
+            this.NDir.Location = new System.Drawing.Point(122, 79);
+            this.NDir.Name = "NDir";
+            this.NDir.Size = new System.Drawing.Size(35, 13);
+            this.NDir.TabIndex = 2;
+            this.NDir.Text = "label1";
             // 
             // MainFormIndexter
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.NDir);
             this.Controls.Add(this.lblPathDir);
             this.Controls.Add(this.btnEscolherPasta);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MainFormIndexter";
             this.Text = "BCindexer";
             this.ResumeLayout(false);
@@ -69,6 +82,7 @@
 
         private System.Windows.Forms.Button btnEscolherPasta;
         private System.Windows.Forms.Label lblPathDir;
+        private System.Windows.Forms.Label NDir;
     }
 }
 
